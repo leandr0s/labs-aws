@@ -1,0 +1,19 @@
+referencias do desafio
+
+ Estrutura data lake - https://www.linkedin.com/pulse/3-camadas-para-sucesso-do-meu-data-lake-marcelo-leite-/
+
+ API Telegram - https://core.telegram.org/bots/api
+ Botgram - https://github.com/botgram/botgram/blob/master/docs/tutorial.md
+ Marco Bruno - https://medium.com/collabcode/como-criar-um-chatbot-no-telegram-em-nodejs-b5ad0e1b4a9
+
+ Knitting tutorials - https://flaviocopes.com/node-upload-files-s3/
+ 
+ API Telegram - https://core.telegram.org/bots/api
+ Botgram - https://github.com/botgram/botgram/blob/master/docs/tutorial.md
+ Marco Bruno - https://medium.com/collabcode/como-criar-um-chatbot-no-telegram-em-nodejs-b5ad0e1b4a9
+ Guia do desenvolvedor - https://docs.aws.amazon.com/pt_br/sdk-for-javascript/v2/developer-guide/s3-example-access-permissions.html
+ Guia do usuario - https://docs.aws.amazon.com/AmazonS3/latest/userguide/upload-objects.html
+ Knitting tutorials - https://flaviocopes.com/node-upload-files-s3/
+ Flavio - https://flaviocopes.com/node-upload-files-s3/
+ 
+ by daniel - https://beabetterdev.com/2021/09/30/aws-s3-presigned-url-upload-tutorial-in-python/
